@@ -1,0 +1,14 @@
+id_producto,producto,categoria,cantidad,precio,fecha_ingreso,bodega
+1001,Camiseta Basica,Ropa Superior,150,25000.0,2024-01-15,Bodega Central
+1002,Pantalon Jean,Ropa Inferior,80,68000.0,2024-01-15,Bodega Norte
+1003,Camiseta Basica,Ropa Superior,150,25000.0,2024-01-15,Bodega Central
+1004,Chaqueta Denim,Ropa Exterior,25,120000.0,2024-01-02,Bodega Central
+1005,Vestido Floral,Ropa Superior,45,95000.0,2024-03-02,Bodega Sur
+1006,Pantalon Jean,Ropa Inferior,80,68000.0,2024-01-15,Bodega Norte
+1007,Falda Plisada,Ropa Inferior,60,68000.0,2024-10-02,Bodega Norte
+1008,Camisa Formal,Ropa Superior,70,110000.0,2024-12-02,Bodega Central
+1009,Short Deportivo,Ropa Inferior,200,32000.0,2024-02-15,Bodega Sur
+1010,Blusa Seda,Ropa Superior,35,89000.0,2024-02-18,Bodega Sur
+1012,Sueter Lana,Ropa Superior,70,72000.0,2024-02-22,Bodega Norte
+1014,Pantalon Formal,Ropa Inferior,90,95000.0,2024-02-25,Bodega Central
+1015,Abrigo Invierno,Ropa Exterior,25,120000.0,2024-02-28,Bodega Sur
